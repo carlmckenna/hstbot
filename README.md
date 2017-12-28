@@ -1,0 +1,2 @@
+# hstbot
+halite starter bot
